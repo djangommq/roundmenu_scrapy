@@ -1,0 +1,7 @@
+MONGODB_SERVER = '13.230.128.164'
+MONGODB_PORT = 27017
+MONGODB_DATABASE='roundmenu'
+USER = 'yunfutech'
+PASSWORD = 'sDdxPijskyujbcZw'
+
+DATA='2019-01-08'
